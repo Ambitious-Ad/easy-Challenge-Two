@@ -1,0 +1,29 @@
+#ignore build output items
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.log
+*.idb
+
+# ignore user-specific visual studio files
+*.user
+*.suo
+*.VC.db
+
+# ignore backup and temporary files
+*.bak
+*.tmp
+*.cache
+
+#ignore folders
+x64/
+Debug/
+Release/
+.ipch/
+.vscode/
+
+# Ignore hidden folders Visual Studio creates
+*.vs/
+
+# why does vs create so many files and folders? 8(
