@@ -1,9 +1,13 @@
+#include "MenuSystem.h"
 #include <iostream>
+
 
 int main()
 {
 
-	std::cout << "Hi!" << std::endl;
+	MenuSystem menu;
+
+	menu.menuLogic();
 
 	return 0;
 }

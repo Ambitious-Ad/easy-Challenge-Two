@@ -7,4 +7,6 @@ The learning focus is on
 - Writing clean, modular code
 - Making the calculator user-friendly
 - Practicing core concepts (like functions, conditionals, and input handling)
-- learning more about git and github
+- learning more about git and GitHub
+
+I built this as part of the challenge from r/dailyprogrammer
